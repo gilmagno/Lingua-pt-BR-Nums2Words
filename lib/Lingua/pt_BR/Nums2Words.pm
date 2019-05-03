@@ -45,7 +45,7 @@ $cardinals{units}      = [undef, qw/um dois três quatro cinco seis sete oito
                           nove/];
 
 $cardinals{first_tens} = [undef, qw/onze doze treze quatorze quinze dezesseis
-                          dezesete dezoito dezenove/];
+                          dezessete dezoito dezenove/];
 
 $cardinals{tens}       = [undef, qw/dez vinte trinta quarenta cinquenta sessenta
                           setenta oitenta noventa/];
