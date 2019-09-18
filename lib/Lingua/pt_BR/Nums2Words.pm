@@ -6,7 +6,7 @@ use Exporter 'import';
 use Carp;
 use utf8;
 
-our $VERSION = '0.01';
+our $VERSION = '0.02';
 our @EXPORT_OK = qw/num2word/;
 
 =encoding utf8
