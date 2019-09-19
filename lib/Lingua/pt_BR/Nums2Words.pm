@@ -199,6 +199,10 @@ Lingua::PT::Nums2Words for pt_PT Portuguese.
 
 Gil Magno E<lt>gils@cpan.orgE<gt>
 
+=head1 THANKS TO
+
+Italo Gonçales (cpan:GONCALES) E<lt>italo.goncales@gmail.comE<gt>
+
 =head1 COPYRIGHT AND LICENSE
 
 Copyright (C) 2015 by Gil Magno
